@@ -13,6 +13,7 @@
 intro(){
 echo "Selamat datang kak, Siapa nick kaka?" #tulisan keluar
 read nick #membaca yang ditulis
+toilet -f mono12 -F gay ZIZO IN HERE
 echo " sleep 0.03           _,.-------.,_ "
 echo " sleep 0.03       ,;~'             '~;, "
 echo " sleep 0.03     ,;                     ;, "
@@ -37,7 +38,7 @@ echo " sleep 0.03         \   .       .   / "
 echo " sleep 0.03           \.    ^    ./ " 
 echo " sleep 0.03             ^~~~^~~~^  "
 echo " sleep 0.2 ================================"
-echo "  ==       Zi20 Project       =="
+echo " sleep 0.0 ==       Zi20 Project       =="
 echo " sleep 0.7 ================================"
 echo " Zi20 Project adalah Percobaan "
 echo " N5C Ini Here "
