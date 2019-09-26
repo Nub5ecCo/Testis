@@ -13,59 +13,34 @@
 intro(){
 echo "Selamat datang kak, Siapa nick kaka?" #tulisan keluar
 read nick #membaca yang ditulis
-echo "            _,.-------.,_ "
-sleep 0.03
-echo "        ,;~'             '~;, "
-sleep 0.03
-echo "      ,;                     ;, "
-sleep 0.03
-echo "     ;                         ; "
-sleep 0.03
-echo "    ,'                         ', "
-sleep 0.03
-echo "   ,;                           ;, "
-sleep 0.03
-echo "   ; ;      .           .      ; ; "
-sleep 0.03
-echo "   | ;   ______       ______   ; | "
-sleep 0.03
-echo "   |  '/~'     ~' . '~     '~\'  | "
-sleep 0.03
-echo "   |  ~  ,-~~~^~, | ,~^~~~-,  ~  | "
-sleep 0.03
-echo "    |   |        }:{        |   | "
-sleep 0.03
-echo "    |   l       / | \       !   | "
-sleep 0.03
-echo "    .~  (__,.--' .^. '--.,__)  ~. "
-sleep 0.03
-echo "    |     ---;' / | \ ';---     | "
-sleep 0.03
-echo "     \__.       \/^\/       .__/ "
-sleep 0.03
-echo "      V| \                 / |V "
-sleep 0.03
-echo "       | |T~\___!___!___/~T| | "
-sleep 0.03
-echo "       | |'IIII_I_I_I_IIII'| | "
-sleep 0.03
-echo "       |  \,III I I I III,/  | "
-sleep 0.03
-echo "        \   '~~~~~~~~~~'    / "
-sleep 0.03
-echo "          \   .       .   / "
-sleep 0.03
-echo "            \.    ^    ./ " 
-sleep 0.03
-echo "              ^~~~^~~~^  "
-sleep 0.03
-echo "  ================================"
-sleep 2
+echo " sleep 0.03           _,.-------.,_ "
+echo " sleep 0.03       ,;~'             '~;, "
+echo " sleep 0.03     ,;                     ;, "
+echo " sleep 0.03    ;                         ; "
+echo " sleep 0.03   ,'                         ', "
+echo " sleep 0.03  ,;                           ;, "
+echo " sleep 0.03  ; ;      .           .      ; ; "
+echo " sleep 0.03  | ;   ______       ______   ; | "
+echo " sleep 0.03  |  '/~'     ~' . '~     '~\'  | "
+echo " sleep 0.03  |  ~  ,-~~~^~, | ,~^~~~-,  ~  | "
+echo " sleep 0.03   |   |        }:{        |   | "
+echo " sleep 0.03   |   l       / | \       !   | "
+echo " sleep 0.03   .~  (__,.--' .^. '--.,__)  ~. "
+echo " sleep 0.03   |     ---;' / | \ ';---     | "
+echo " sleep 0.03    \__.       \/^\/       .__/ "
+echo " sleep 0.03     V| \                 / |V "
+echo " sleep 0.03      | |T~\___!___!___/~T| | "
+echo " sleep 0.03      | |'IIII_I_I_I_IIII'| | "
+echo " sleep 0.03      |  \,III I I I III,/  | "
+echo " sleep 0.03       \   '~~~~~~~~~~'    / "
+echo " sleep 0.03         \   .       .   / "
+echo " sleep 0.03           \.    ^    ./ " 
+echo " sleep 0.03             ^~~~^~~~^  "
+echo " sleep 0.2 ================================"
 echo "  ==       Zi20 Project       =="
-sleep 0.7
-echo "  ================================"
+echo " sleep 0.7 ================================"
 echo " Zi20 Project adalah Percobaan "
-echo " Instagram via best9 "
+echo " N5C Ini Here "
 echo
 echo "Selamat datang "$nick
 }
